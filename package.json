@@ -1,0 +1,20 @@
+{
+  "name": "euc_dist_module",
+  "version": "1.0.0",
+  "description": "Example for Euclidean Distance module in NodeJS",
+  "main": "index.js",
+  "scripts": {
+	"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armmarov/euc_dist_module.git"
+  },
+  "author": "Ammar Abdullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armmarov/euc_dist_module/issues"
+  },
+  "homepage": "https://github.com/armmarov/euc_dist_module#readme"
+}
