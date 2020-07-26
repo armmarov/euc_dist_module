@@ -1,4 +1,11 @@
 # Simple module to calculate Euclidean Distance
 
-## To run the program
-> npm start
+## Installation 
+
+#### Running the program
+
+```bash
+$ npm install
+$ npm start
+..
+```
